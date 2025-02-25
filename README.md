@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vitacheat/Hex Coding
 - 📫 How to reach me: matt192200@gmail.com
 - 😄 Pronouns: He/Him/Whatever
-- 😍 I love evrything about the PSVita
+- 😍 I love everything about the PSVita
 - ⚡ Fun fact: Spiders dont have wings (:
 
 <!---
