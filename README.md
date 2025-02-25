@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Matt192200
-- 👀 I’m interested in learning coding and development for the PSVita
+- 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning Vitacheat/Hex Coding
 - 📫 How to reach me: matt192200@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/Whatever
+- 😍 I love evrything about the PSVita
 - ⚡ Fun fact: Spiders dont have wings (:
 
 <!---
