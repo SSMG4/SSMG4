@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SSMG4
 - 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning Vitacheat/Hex Coding
-- 📫 How to reach me: matt192200@gmail.com
+- 📫 How to reach me: ssmg4lt@gmail.com
 - 😄 Pronouns: He/Him/Whatever
 - 😍 I love everything about the PSVita
 - ⚡ Fun fact: Spiders dont have wings (:
