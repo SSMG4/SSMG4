@@ -45,9 +45,9 @@
 
 | Project                                                    | Description                                              |
 | ---------------------------------------------------------- | ---------------------------------------------------------|
-| [`SSR`](https://github.com/SSMG4/SSR) | A multi-platform Magisk modules repository available on MMRL, but also has a mobile and desktop client |
-| [`Minecraft PSVita Toolbox`](https://github.com/SSMG4/Minecraft-PlayStationVita-Toolbox) | A Toolbox for Minecraft PSVita |
-| [`Android Crack Database`](https://github.com/SSMG4/Android-Crack-Database) | Database of lots of cracked Android apps & games |
+| [`SSR`](https://github.com/SSMG4/SSR)        | A multi-platform Magisk modules repository available on MMRL, but also has a mobile and desktop client |
+| [`Minecraft PSVita Toolbox`](https://github.com/SSMG4/Minecraft-PlayStationVita-Toolbox)               | A Toolbox for Minecraft PSVita |
+| [`Android Crack Database`](https://github.com/SSMG4/Android-Crack-Database)              | Database of lots of cracked Android apps & games |
 
 ---
 
