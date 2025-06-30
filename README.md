@@ -14,11 +14,11 @@
 * Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, retro modding, space, you get it
 * Philosophy: No device left behind, cause they deserve a second chance!
 * Fun fact: Spiders don’t have wings... which is probably good for humanity
-* I Love: HTML!
+* I Love HTML!
 
 ---
 
-### Skills & Tools
+### 🧠 Skills & Tools
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
@@ -61,9 +61,9 @@ But its mostly HTML for now XD
 
 ### 📬 Contact Me
 
-* 📧 Email: [ssmg4@proton.me](mailto:ssmg4@proton.me)
-* 🌍 Location: Nouvelle-Aquitaine, France 🇫🇷
-* 🕹️ Handles: `@SSMG4` pretty much everywhere
+* Email: [ssmg4@proton.me](mailto:ssmg4@proton.me)
+* Location: Nouvelle-Aquitaine, France 🇫🇷
+* Handles: `@SSMG4` pretty much everywhere
 
 ---
 
