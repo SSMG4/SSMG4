@@ -5,15 +5,14 @@
 
 ---
 
-### 🧑‍🚀 About Me
+### About Me
 
-💻 **`> whoami`**  
-🧠 **Matthew, aka SSMG4**
+**Im Matthew, aka SSMG4**
 
-* 🔭 Working on: SSR (My Magisk module repo), Android Crack Database (Free Android Stuff), tons of modding projects
-* 🌱 Currently learning: Reverse engineering, Android internals, Kotlin, web dev, game engines
-* 🎮 Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, retro modding, space stuff
-* 🛠️ Philosophy: No device left behind 💀📱
+* 🔭 Working on: SSR (My Magisk module repo), Android Crack Database (Title Says It), tons of modding projects
+* 🌱 Currently learning: Reverse engineering, Android stuff, Kotlin stuff, web stuff, game stuff, and even more stuff (:
+* 🎮 Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, retro modding, space, you get it
+* 🛠️ Philosophy: No device left behind, cause they deserve a second chance!
 * 🕷️ Fun fact: Spiders don’t have wings... which is probably good for humanity
 
 ---
@@ -37,6 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSMG4&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ### 📬 Contact Me
 
-* 📧 Email: [ssmg4lt@gmail.com](mailto:ssmg4lt@gmail.com)
+* 📧 Email: [ssmg4@proton.me](mailto:ssmg4@proton.me)
 * 🌍 Location: Nouvelle-Aquitaine, France 🇫🇷
 * 🕹️ Handles: `@SSMG4` pretty much everywhere
 
@@ -62,13 +62,9 @@
 ### 💬 Philosophy
 
 ```bash
-My motto: revive it, mod it, don’t toss it.
-Everything old deserves a second chance – and I’m here to prove it.
+Revive it, mod it, don’t toss it.
+Everything old deserves a second chance – and I’m here to prove it!
 ```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Moving blue waves animation"/>
-</p>
 
 <!---
 Matt192200/Matt192200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
