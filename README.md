@@ -39,7 +39,7 @@ But its mostly HTML for now XD
 
 ![SSMG4](https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs)
 
-![SSMG4](https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact)
+![SSMG4](https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact) <img src="https://tenor.com/cZX7rrHyAzq.gif" />
 
 ---
 
