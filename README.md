@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Yo+I'm+SSMG4!;Retro+console+enthusiast+%F0%9F%8E%AE;Tech+nerd+%F0%9F%9A%80;I+do+wild+stuff..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=SSMG4+Here;Gamer,+lol;Developing+For+Fun!;I+Love+HTML;You+Still+Reading+This+Bruh?" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧠 Skills & Tools
+### Skills & Tools
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
@@ -29,6 +29,8 @@
 ![TWRP](https://img.shields.io/badge/-TWRP-00A0E4?logo=android&logoColor=white&style=flat)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![Godot](https://img.shields.io/badge/-Godot-2596BE?logo=Godot&logoColor=white&style=flat)
+
+But its mostly HTML for now XD
 
 ---
 
