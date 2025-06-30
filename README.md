@@ -47,7 +47,7 @@ But its mostly HTML for now XD
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact" alt="SSMG4's Top Languages" />
       </td>
       <td>
-        <img src="https://media.tenor.com/cZX7rrHyAzqAAAAC/nya-catgirl.gif" alt="Nya Catgirl" height="135px" />
+        <img src="https://c.tenor.com/IQcYOoTEuXYAAAAC/tenor.gif" alt="Holy Moly" height="135px" />
       </td>
     </tr>
   </table>
