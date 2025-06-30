@@ -36,11 +36,10 @@ But its mostly HTML for now XD
 
 ### 📈 GitHub Stats
 
-![SSMG4](https://github-readme-streak-stats.herokuapp.com/?user=SSMG4&theme=radical)
-
-![SSMG4](https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs)
-
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SSMG4&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs" />
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact" alt="SSMG4's Top Languages" style="display:inline-block;" />
     <img src="https://c.tenor.com/IQcYOoTEuXYAAAAC/tenor.gif" alt="Holy Moly" height="135px" style="display:inline-block; margin-left: 10px;" />
