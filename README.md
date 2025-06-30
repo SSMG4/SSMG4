@@ -35,11 +35,23 @@ But its mostly HTML for now XD
 ---
 
 ### 📈 GitHub Stats
+
 ![SSMG4](https://github-readme-streak-stats.herokuapp.com/?user=SSMG4&theme=radical)
 
 ![SSMG4](https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs)
 
-![SSMG4](https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact) <img src="https://tenor.com/cZX7rrHyAzq.gif" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact" alt="SSMG4's Top Languages" />
+      </td>
+      <td>
+        <img src="https://media.tenor.com/cZX7rrHyAzqAAAAC/nya-catgirl.gif" alt="Nya Catgirl" height="135px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
