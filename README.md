@@ -41,16 +41,10 @@ But its mostly HTML for now XD
 ![SSMG4](https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs)
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact" alt="SSMG4's Top Languages" />
-      </td>
-      <td>
-        <img src="https://c.tenor.com/IQcYOoTEuXYAAAAC/tenor.gif" alt="Holy Moly" height="135px" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact" alt="SSMG4's Top Languages" style="display:inline-block;" />
+    <img src="https://c.tenor.com/IQcYOoTEuXYAAAAC/tenor.gif" alt="Holy Moly" height="135px" style="display:inline-block; margin-left: 10px;" />
+  </p>
 </div>
 
 ---
