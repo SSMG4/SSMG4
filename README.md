@@ -33,13 +33,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
 ![SSMG4](https://github-readme-streak-stats.herokuapp.com/?user=SSMG4&theme=radical)
 
 ![SSMG4](https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs)
 
 ![SSMG4](https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact)
-</p>
 
 ---
 
