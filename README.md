@@ -9,11 +9,12 @@
 
 **Im Matthew, aka SSMG4**
 
-* 🔭 Working on: SSR (My Magisk module repo), Android Crack Database (Title Says It), tons of modding projects
-* 🌱 Currently learning: Reverse engineering, Android stuff, Kotlin stuff, web stuff, game stuff, and even more stuff (:
-* 🎮 Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, retro modding, space, you get it
-* 🛠️ Philosophy: No device left behind, cause they deserve a second chance!
-* 🕷️ Fun fact: Spiders don’t have wings... which is probably good for humanity
+* Working on: SSR (My Magisk module repo), Android Crack Database (Title Says It), tons of modding projects
+* Currently learning: Reverse engineering, Android stuff, Kotlin stuff, web stuff, game stuff, and even more stuff (:
+* Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, retro modding, space, you get it
+* Philosophy: No device left behind, cause they deserve a second chance!
+* Fun fact: Spiders don’t have wings... which is probably good for humanity
+* I Love: HTML!
 
 ---
 
