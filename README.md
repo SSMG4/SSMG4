@@ -32,6 +32,7 @@
 ---
 
 ### 📈 GitHub Stats
+![SSMG4](https://github-readme-streak-stats.herokuapp.com/?user=SSMG4&theme=radical)
 
 ![SSMG4](https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs)
 
