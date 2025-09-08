@@ -7,12 +7,15 @@
 
 ### About Me
 
-**Im Matthew, aka SSMG4**
+**Hiya! Im Matthew, aka SSMG4.**
 
-* Working on: SSR (My Magisk module repo), Android Crack Database (Title Says It), tons of modding projects
-* Currently learning: Reverse engineering, Android stuff, Kotlin stuff, web stuff, game stuff, and even more stuff (:
-* Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, retro modding, space, you get it
-* Philosophy: No device left behind, cause they deserve a second chance!
+Im mostly a web developer but also a software developer making projects in my free time!
+
+Here's some info:
+* Working on: SSR (My Magisk module repo), Android Crack Database, tons of modding projects
+* Currently learning: HTML, CSS, JavaScript or basically web stuff, Java, Kotlin (:
+* Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, Minecraft, the web, retro modding, space, you get it
+* Philosophy: No device left behind, cause they all deserve a second chance!
 * Fun fact: Spiders don’t have wings... which is probably good for humanity
 * I Love HTML!
 
@@ -53,9 +56,9 @@ But its mostly HTML for now XD
 
 | Project                                                    | Description                                              |
 | ---------------------------------------------------------- | ---------------------------------------------------------|
-| [`SSR`](https://github.com/SSMG4/SSR)        | A multi-platform Magisk modules repository available on MMRL, but also has a mobile and desktop client |
+| [`SSR`](https://github.com/SSMG4/SSR)        | A multi-platform Magisk modules repository available on MMRL, but also as a mobile and desktop client |
 | [`Minecraft PSVita Toolbox`](https://github.com/SSMG4/Minecraft-PlayStationVita-Toolbox)               | A Toolbox for Minecraft PSVita |
-| [`Android Crack Database`](https://github.com/SSMG4/Android-Crack-Database)              | Database of lots of cracked Android apps & games |
+| [`Android Crack Database`](https://github.com/SSMG4/Android-Crack-Database)              | A database full of cracked Android apps & games |
 
 ---
 
@@ -75,6 +78,6 @@ Everything old deserves a second chance – and I’m here to prove it!
 ```
 
 <!---
-Matt192200/Matt192200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SSMG4/SSMG4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
