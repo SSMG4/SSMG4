@@ -12,7 +12,6 @@
 Im mostly a web developer but also a software developer making projects in my free time!
 
 Here's some info:
-* Im a ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) / ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) user!
 * Working on: SSR (My Magisk module repo), VHBB-Android, tons of modding projects
 * Currently learning: HTML, CSS, JavaScript or basically web stuff, Java, Kotlin (:
 * Obsessed with: PSP/PS2/PS3/PSVita, old tech, custom ROMs, Minecraft, the web, retro modding, space, you get it
@@ -51,7 +50,20 @@ Here's some info:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
-
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
+![VuePress](https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff)
+![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)
 
 And there's more to come! But its mostly HTML, Markdown, JavaScript, JSON and YAML lol
 
