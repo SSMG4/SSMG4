@@ -64,8 +64,10 @@ Here's some info:
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)
 
-And there's more to come! But its mostly HTML, Markdown, JavaScript, JSON and YAML lol
+But right now? Its mostly HTML, Markdown, JavaScript, JSON and YAML lol
 
 ---
 
