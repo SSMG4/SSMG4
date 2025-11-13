@@ -25,48 +25,15 @@ Here's some info:
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![TWRP](https://img.shields.io/badge/-TWRP-00A0E4?logo=android&logoColor=white&style=flat)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
-![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
-![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)
-![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)
-![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
-![VuePress](https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff)
-![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) ![VuePress](https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff) ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff) ![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)  
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)  
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff) ![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff) ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)  
+![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff) ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine) ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff) ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff) ![TWRP](https://img.shields.io/badge/-TWRP-00A0E4?logo=android&logoColor=white&style=flat) ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)  
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)  
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)  
 ![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)
 
 </div>
@@ -83,7 +50,7 @@ But right now? Its mostly HTML, Markdown, JavaScript, JSON and YAML lol
   <img src="https://github-readme-stats.vercel.app/api?username=SSMG4&show_icons=true&theme=radical&hide=prs" />
 
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&show_icons=true&theme=tokyonight&layout=compact" alt="SSMG4's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSMG4&langs_count=16&show_icons=true&theme=tokyonight&layout=compact" alt="SSMG4's Top Languages" />
     <img src="https://media1.tenor.com/m/IQcYOoTEuXYAAAAd/holy-moly.gif" alt="Holy Moly" height="135px" style="margin-left: 10px;" />
   </div>
 </div>
