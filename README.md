@@ -1,2 +1,2 @@
-# Im Taking A GitHub Break
-Please, let me enjoy Christmas this year, thanks.
+# Sup! Im SSMG4 (:
+This is my GitHub profile haha
