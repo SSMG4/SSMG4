@@ -1,3 +1,6 @@
+>[!WARNING]
+>Hi! I'm sorry to announce that I'm currently being overwhelmed by the work I have to do in real life and have no time to maintain my project. I hope you guys can understand. Expect to see me work again by the beginning of July (:
+
 # Sup! Im SSMG4 (:
 This is my GitHub profile haha
 
